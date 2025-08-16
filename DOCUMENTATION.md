@@ -4,8 +4,8 @@
 A full-stack web application that allows users to upload meeting transcripts, generate AI-powered summaries with custom instructions, and share them via email.
 
 ## Submission & Repo
-- __Repository Name__: `muqsit-lumio`
-- __GitHub URL__: [https://github.com/mmrcode/muqsit-lumio]
+- __Repository Name__: `summarizer-lumio`
+- __GitHub URL__: [https://github.com/mmrcode/summarizer-lumio]
 - __Deployed Link__: Add the Vercel URL after deployment
 
 ## Approach & Process
